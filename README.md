@@ -5,7 +5,7 @@
 ## HOW TO
 to build the project do:
 ```
-$ git clone https://github.com/Fernweho/PLUME_internship.git
+$ git clone https://github.com/Fernweho/PLUME-internship.git
 $ mkdir build-Plume && cd build-Plume
 $ cmake ../Plume
 $ make -jN /// N is the number of threads available on the machine
